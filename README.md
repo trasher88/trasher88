@@ -1,16 +1,18 @@
-## Hi there 👋
+## Привет, я [Иван]! 👋
 
-<!--
-**trasher88/trasher88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Header](катринка)]
 
-Here are some ideas to get you started:
+## Обо мне
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Сейчас обучаюсь на аналитика данных
+- 🌱 Изучаю: Python, SQL, статистику
+- 📫 Как связаться со мной: [email/telegram]
+
+## Технологии и инструменты
+
+### Языки программирования
+
+### Базы данных
+
+## Статистика GitHub
+![Статистика](https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=radical)
