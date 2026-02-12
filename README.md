@@ -19,6 +19,8 @@
 ![Статистика](https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=radical)
 
 
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Ftrasher88&label=Visitors&countColor=%23263759)
+
 ## Мои проекты:
 За время обучения на курсе "Аналитик данных" и проектную деятельность мной выполнено _ проектов.
 
