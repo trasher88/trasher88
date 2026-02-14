@@ -1,15 +1,27 @@
-## Привет, я Иван! 👋
+<div align="center">
+    <h1>Привет, я Иван! 👋 </h1>
+</div>
+
+<div align="center">
+  <a href="https://t.me/trasher_88">
+    <img src="https://img.shields.io/badge/Telegram-166ab8?style=for-the-badge&logo=telegram&logoColor=white">
+  </a>
+  <a href="https://vk.com/trasher6">
+    <img src="https://img.shields.io/badge/VK-166ab8?style=for-the-badge&logo=vk&logoColor=white">
+  </a>
+  <a href="https://stepik.org/users/359891546/profile">
+    <img src="https://img.shields.io/badge/Stepik-000000?style=for-the-badge&logo=Stepik&logoColor=white">
+  </a>
+  <br>
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Ftrasher88&label=Profile%20views&countColor=%23263759" alt="Visitors">
+  </div>
 
 ## Обо мне:
 - Обучаюсь на аналитика данных
 - Изучаю: Python, SQL, статистику
 - На регулярной основе обучаюсь чему-то новому и повышаю свою квалификацию
 
-[![Telegram](https://img.shields.io/badge/Telegram-166ab8?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/trasher_88)
-[![VK](https://img.shields.io/badge/VK-166ab8?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/trasher6)
-[![Stepik](https://img.shields.io/badge/Stepik-000000?style=for-the-badge&logo=Stepik&logoColor=white)](https://stepik.org/users/359891546/profile)
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Ftrasher88&label=Profile%20views&countColor=%23263759)
 
 
 ## Технологии и инструменты
