@@ -1,11 +1,8 @@
 ## Привет, я Иван! 👋
 
-[![Header](катринка)]
-
 ## Обо мне:
-- 🔭 Обучаюсь на аналитика данных
-- 🌱 Изучаю: Python, SQL, статистику
-- 📫 Как связаться со мной: [tra88programmer@mail.ru/https://t.me/trasher_88]
+- Обучаюсь на аналитика данных
+- Изучаю: Python, SQL, статистику
 - На регулярной основе обучаюсь чему-то новому и повышаю свою квалификацию
 
 [![Telegram](https://img.shields.io/badge/Telegram-166ab8?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/trasher_88)
@@ -26,14 +23,6 @@
 ![Plotly](https://img.shields.io/badge/Plotly-FFFFFF?style=for-the-badge&logo=plotly&logoColor=3F4F75)
 ![SciPy](https://img.shields.io/badge/SciPy-FFFFFF?style=for-the-badge&logo=scipy&logoColor=0C55A5)
 ![GitHub](https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=181717)
-
-### Базы данных
-
-## Статистика GitHub
-![Статистика](https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=radical)
-
-
-
 
 ## Мои проекты:
 За время обучения на курсе "Аналитик данных" мной выполнено 7 проектов.
