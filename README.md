@@ -9,6 +9,10 @@
 - 📫 Как связаться со мной: [email/telegram]
 - [![Stepik](https://img.shields.io/badge/Stepik-000000?style=for-hte-badge&logo=Stepik&logoColor=white)](https://stepik.org/users/359891546/profile) На регулярной основе обучаюсь чему-то новому и повышаю свою квалификацию
 
+[![Telegram](https://img.shields.io/badge/Telegram-166ab8?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/trasher_88)
+[![VK](https://img.shields.io/badge/VK-166ab8?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/trasher6)
+
+
 ## Технологии и инструменты
 
 ### Языки и инструменты
