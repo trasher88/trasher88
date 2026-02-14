@@ -21,20 +21,30 @@
 - Изучаю: Python, SQL, статистику
 - На регулярной основе обучаюсь чему-то новому и повышаю свою квалификацию
 
-
-
-
-## Технологии и инструменты
-
 ### Языки и инструменты
-![Python](https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=blue)
-![Jupyter](https://img.shields.io/badge/Jupyter-FFFFFF?style=for-the-badge&logo=jupyter&logoColor=F37626&labelColor=FFFFFF)
-![PyCharm](https://img.shields.io/badge/PyCharm-FFFFFF?style=for-the-badge&logo=pycharm&logoColor=21D789)
-![Pandas](https://img.shields.io/badge/Pandas-FFFFFF?style=for-the-badge&logo=pandas&logoColor=150458)
-![NumPy](https://img.shields.io/badge/NumPy-FFFFFF?style=for-the-badge&logo=numpy&logoColor=013243)
-![Plotly](https://img.shields.io/badge/Plotly-FFFFFF?style=for-the-badge&logo=plotly&logoColor=3F4F75)
-![SciPy](https://img.shields.io/badge/SciPy-FFFFFF?style=for-the-badge&logo=scipy&logoColor=0C55A5)
-![GitHub](https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=181717)
+### 🐍 Python & Data Science
+![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=PyCharm&logoColor=white)
+
+### 📈 Data Science & Анализ данных
+![Pandas](https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=NumPy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6.svg?style=for-the-badge&logo=SciPy&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-7A76FF.svg?style=for-the-badge&logo=Plotly&logoColor=white)
+
+### 💾 Базы данных
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57.svg?style=for-the-badge&logo=SQLite&logoColor=white)
+
+### 🔧 Языки программирования и инструменты
+![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?style=for-the-badge&logo=Kotlin&logoColor=white)
+![Android-Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=Android-Studio&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED.svg?style=for-the-badge&logo=Obsidian&logoColor=white)
 
 ## Мои проекты:
 За время обучения на курсе "Аналитик данных" мной выполнено 7 проектов.
