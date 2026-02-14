@@ -1,16 +1,18 @@
-## Привет, я [Иван]! 👋
+## Привет, я Иван! 👋
 
 [![Header](катринка)]
 
-## Обо мне
-
-- 🔭 Сейчас обучаюсь на аналитика данных
+## Обо мне:
+- 🔭 Обучаюсь на аналитика данных
 - 🌱 Изучаю: Python, SQL, статистику
-- 📫 Как связаться со мной: [email/telegram]
-- [![Stepik](https://img.shields.io/badge/Stepik-000000?style=for-hte-badge&logo=Stepik&logoColor=white)](https://stepik.org/users/359891546/profile) На регулярной основе обучаюсь чему-то новому и повышаю свою квалификацию
+- 📫 Как связаться со мной: [tra88programmer@mail.ru/https://t.me/trasher_88]
+- На регулярной основе обучаюсь чему-то новому и повышаю свою квалификацию
 
 [![Telegram](https://img.shields.io/badge/Telegram-166ab8?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/trasher_88)
 [![VK](https://img.shields.io/badge/VK-166ab8?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/trasher6)
+[![Stepik](https://img.shields.io/badge/Stepik-000000?style=for-the-badge&logo=Stepik&logoColor=white)](https://stepik.org/users/359891546/profile)
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Ftrasher88&label=Profile%20views&countColor=%23263759)
 
 
 ## Технологии и инструменты
@@ -31,7 +33,7 @@
 ![Статистика](https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=radical)
 
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Ftrasher88&label=Profile_views&countColor=%23263759)
+
 
 ## Мои проекты:
 За время обучения на курсе "Аналитик данных" мной выполнено 7 проектов.
