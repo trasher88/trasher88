@@ -57,6 +57,9 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED.svg?style=for-the-badge&logo=Obsidian&logoColor=white)
 
+### Codewars:
+![Codewars Badge](https://www.codewars.com/users/trasher88/badges/large)
+
 ## Study Projects:
 За время обучения на курсе "Аналитик данных" выполнил следующие проекты
 
