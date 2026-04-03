@@ -1,7 +1,8 @@
 <div align="center">
     <h1>Привет, я Иван! 👋 </h1>
+    <img src="images/me.gif" width="300px">
 </div>
-![Изображение](images/me.gif)
+
 <div align="center">
   <a href="https://t.me/trasher_88">
     <img src="https://img.shields.io/badge/Telegram-166ab8?style=for-the-badge&logo=telegram&logoColor=white">
@@ -59,6 +60,9 @@
 
 ### Codewars:
 ![Codewars Badge](https://www.codewars.com/users/trasher88/badges/large)
+
+
+
 
 ## Study Projects:
 За время обучения на курсе "Аналитик данных" выполнил следующие проекты
