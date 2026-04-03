@@ -1,7 +1,7 @@
 <div align="center">
     <h1>Привет, я Иван! 👋 </h1>
 </div>
-
+![Изображение](images/me.gif)
 <div align="center">
   <a href="https://t.me/trasher_88">
     <img src="https://img.shields.io/badge/Telegram-166ab8?style=for-the-badge&logo=telegram&logoColor=white">
