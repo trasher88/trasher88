@@ -1,6 +1,6 @@
 <div align="center">
     <h1>Привет, я Иван! 👋 </h1>
-    <img src="images/me.gif" width="300px">
+    <img src="images/me.gif" width="400px">
 </div>
 
 <div align="center">
