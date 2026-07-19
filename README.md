@@ -102,7 +102,7 @@ Python • Data Analysis • System Analysis • LLM Applications • Informatio
 
 ### 🤖 LLM / AI Applications:
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=OpenAI&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-Knowledge%20Retrieval-1A1A1A?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-Knowledge%20Retrieval-1A1A1A.svg?style=for-the-badge)
 ![LLM](https://img.shields.io/badge/LLM-6E40C9.svg?style=for-the-badge)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-FF6F00.svg?style=for-the-badge)
 ![Structured Output](https://img.shields.io/badge/Structured%20Output-0052CC.svg?style=for-the-badge)
