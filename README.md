@@ -100,6 +100,30 @@ Python • Data Analysis • System Analysis • LLM Applications • Informatio
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6.svg?style=for-the-badge&logo=SciPy&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-7A76FF.svg?style=for-the-badge&logo=Plotly&logoColor=white)
 
+### 🤖 LLM / AI Applications:
+![OpenAI](https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=OpenAI&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-1A1A1A.svg?style=for-the-badge&logo=readthedocs&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM-6E40C9.svg?style=for-the-badge&logo=OpenAI&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-FF6F00.svg?style=for-the-badge&logo=Google%20Assistant&logoColor=white)
+![Structured Output](https://img.shields.io/badge/Structured%20Output-0052CC.svg?style=for-the-badge&logo=json&logoColor=white)
+![AI Evaluation](https://img.shields.io/badge/AI%20Evaluation-2E7D32.svg?style=for-the-badge&logo=pytest&logoColor=white)
+
+### ⚙️ Backend & API:
+![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=FastAPI&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063.svg?style=for-the-badge&logo=Pydantic&logoColor=white)
+![Uvicorn](https://img.shields.io/badge/Uvicorn-499848.svg?style=for-the-badge&logo=Gunicorn&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-02569B.svg?style=for-the-badge&logo=Swagger&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D.svg?style=for-the-badge&logo=Swagger&logoColor=black)
+![JSON](https://img.shields.io/badge/JSON-000000.svg?style=for-the-badge&logo=JSON&logoColor=white)
+
+### 🧪 Testing & Documentation:
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC.svg?style=for-the-badge&logo=Pytest&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=Markdown&logoColor=white)
+![JSONL](https://img.shields.io/badge/JSONL-292929.svg?style=for-the-badge&logo=JSON&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED.svg?style=for-the-badge&logo=Obsidian&logoColor=white)
+
 ### 💾 Базы данных:
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
@@ -110,8 +134,7 @@ Python • Data Analysis • System Analysis • LLM Applications • Informatio
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?style=for-the-badge&logo=Kotlin&logoColor=white)
 ![Android-Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=Android-Studio&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)
-![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED.svg?style=for-the-badge&logo=Obsidian&logoColor=white)
+
 
 ### Codewars:
 ![Codewars Badge](https://www.codewars.com/users/trasher88/badges/large)
