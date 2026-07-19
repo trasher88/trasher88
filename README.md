@@ -114,7 +114,7 @@ Python • Data Analysis • System Analysis • LLM Applications • Informatio
 ![Uvicorn](https://img.shields.io/badge/Uvicorn-499848.svg?style=for-the-badge&logo=Gunicorn&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-02569B.svg?style=for-the-badge&logo=Swagger&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D.svg?style=for-the-badge&logo=Swagger&logoColor=black)
-![JSON](https://img.shields.io/badge/JSON-000000.svg?style=for-the-badge&logo=JSON&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000.svg?style=for-the-badge)
 
 ### 🧪 Testing & Documentation:
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC.svg?style=for-the-badge&logo=Pytest&logoColor=white)
