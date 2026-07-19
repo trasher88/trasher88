@@ -119,7 +119,7 @@ Python • Data Analysis • System Analysis • LLM Applications • Informatio
 ### 🧪 Testing & Documentation:
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC.svg?style=for-the-badge&logo=Pytest&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=Markdown&logoColor=white)
-![JSONL](https://img.shields.io/badge/JSONL-292929.svg?style=for-the-badge&logo=JSON&logoColor=white)
+![JSONL](https://img.shields.io/badge/JSONL-292929.svg?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED.svg?style=for-the-badge&logo=Obsidian&logoColor=white)
