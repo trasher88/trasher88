@@ -1,5 +1,7 @@
 <div align="center">
     <h1>Привет, я Иван! 👋 </h1>
+    <h2>Python Developer · AI / LLM Applications · Data Analysis</h2>
+    Разрабатываю прикладные инструменты для работы с данными, автоматизации и интеллектуального поиска
     <img src="images/me.gif" width="400px">
 </div>
 
@@ -18,13 +20,11 @@
   </div>
 
 ### Обо мне:
-Python • Data Analysis • System Analysis • LLM Applications • Information Security
+У меня **15 лет профессионального опыта в информационной безопасности и разработке защищённых информационных систем**: Linux, программные компоненты на C++, анализ уязвимостей, технические требования и архитектура решений.
 
-Я инженер по защите информации с опытом разработки защищённых систем, анализа IT-инфраструктуры и подготовки технической документации. Сейчас развиваюсь в направлениях **Data Analysis**, **System Analysis** и **LLM / AI Applications**.
+Сейчас мой основной фокус - **Python-разработка, AI/LLM-приложения и анализ данных**. Разрабатываю собственные проекты, в которых соединяю работу с API и данными, backend-логику, поиск по документам, тестирование и автоматизацию.
 
-Мне интересно создавать прикладные инструменты, которые объединяют данные, backend-логику, автоматизацию и AI. В проектах я стараюсь идти не только от кода, но и от бизнес-сценария: определить задачу, описать требования, собрать архитектуру, реализовать MVP, добавить тесты, документацию и проверку качества.
-
-Отдельный фокус сейчас — разработка LLM-приложений: RAG-пайплайны, tool calling, structured outputs, safety/refusal logic, evals и regression reports.
+Мне интересен полный цикл разработки: **задача → архитектура → реализация → тестирование → оценка качества → работающий продукт**. Опыт в информационной безопасности помогает учитывать надёжность, ограничения доступа и проверяемость поведения систем.
 
 ---
 
@@ -89,16 +89,17 @@ Python • Data Analysis • System Analysis • LLM Applications • Informatio
 
 ---
 
-### 🐍 Python:
-![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=PyCharm&logoColor=white)
+| Направление                | Технологии и практики                                                                                                           |
+| -------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| **Python / Backend**       | ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white), FastAPI, Pydantic, REST API, aiogram 3, httpx, APScheduler                                                              |
+| **AI / LLM**               | OpenAI API, RAG, prompt engineering, intent routing, tool/function calling, structured outputs, evaluation и regression testing |
+| **Данные и ML**            | SQL, SQLite, ![Pandas](https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white), ![NumPy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=NumPy&logoColor=white), ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6.svg?style=for-the-badge&logo=SciPy&logoColor=white), scikit-learn, ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white), ![Plotly](https://img.shields.io/badge/Plotly-7A76FF.svg?style=for-the-badge&logo=Plotly&logoColor=white), Streamlit                                                     |
+| **Инженерные инструменты** | Linux, Git, GitHub, Pytest, systemd, Docker (базовый уровень)                                                                   |
+| **Дополнительный опыт**    | C++ (предыдущие проекты), Kotlin, Android / Jetpack Compose, анализ уязвимостей и требования безопасности                       |
 
-### 📈 Data Science & Анализ данных:
-![Pandas](https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=NumPy&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6.svg?style=for-the-badge&logo=SciPy&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-7A76FF.svg?style=for-the-badge&logo=Plotly&logoColor=white)
+
+### 🐍 Python:
+![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=PyCharm&logoColor=white)
 
 ### 🤖 LLM / AI Applications:
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=OpenAI&logoColor=white)
