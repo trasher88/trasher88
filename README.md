@@ -91,21 +91,14 @@
 
 | Направление                | Технологии и практики                                                                                                           |
 | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
-| **Python / Backend**       | ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white), FastAPI, Pydantic, REST API, aiogram 3, httpx, APScheduler                                                              |
-| **AI / LLM**               | OpenAI API, RAG, prompt engineering, intent routing, tool/function calling, structured outputs, evaluation и regression testing |
+| **Python / Backend**       | ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white), ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=PyCharm&logoColor=white), FastAPI, Pydantic, REST API, aiogram 3, httpx, APScheduler                                                              |
+| **AI / LLM**               | ![OpenAI](https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=OpenAI&logoColor=white), ![RAG](https://img.shields.io/badge/RAG-Knowledge%20Retrieval-1A1A1A.svg?style=for-the-badge), ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-FF6F00.svg?style=for-the-badge), intent routing, tool/function calling, structured outputs, evaluation и regression testing |
 | **Данные и ML**            | SQL, SQLite, ![Pandas](https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white), ![NumPy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=NumPy&logoColor=white), ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6.svg?style=for-the-badge&logo=SciPy&logoColor=white), scikit-learn, ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white), ![Plotly](https://img.shields.io/badge/Plotly-7A76FF.svg?style=for-the-badge&logo=Plotly&logoColor=white), Streamlit                                                     |
-| **Инженерные инструменты** | Linux, Git, GitHub, Pytest, systemd, Docker (базовый уровень)                                                                   |
-| **Дополнительный опыт**    | C++ (предыдущие проекты), Kotlin, Android / Jetpack Compose, анализ уязвимостей и требования безопасности                       |
-
-
-### 🐍 Python:
-![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=PyCharm&logoColor=white)
+| **Инженерные инструменты** | Linux, ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white), ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white), Pytest, systemd, Docker (базовый уровень)                                                                   |
+| **Дополнительный опыт**    | ![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white), ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?style=for-the-badge&logo=Kotlin&logoColor=white), ![Android-Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=Android-Studio&logoColor=white), ![IntelliJ](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=white)                       |
 
 ### 🤖 LLM / AI Applications:
-![OpenAI](https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=OpenAI&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-Knowledge%20Retrieval-1A1A1A.svg?style=for-the-badge)
 ![LLM](https://img.shields.io/badge/LLM-6E40C9.svg?style=for-the-badge)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-FF6F00.svg?style=for-the-badge)
 ![Structured Output](https://img.shields.io/badge/Structured%20Output-0052CC.svg?style=for-the-badge)
 ![AI Evaluation](https://img.shields.io/badge/AI%20Evaluation-2E7D32.svg?style=for-the-badge)
 
@@ -121,8 +114,7 @@
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC.svg?style=for-the-badge&logo=Pytest&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=Markdown&logoColor=white)
 ![JSONL](https://img.shields.io/badge/JSONL-292929.svg?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)
+
 ![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED.svg?style=for-the-badge&logo=Obsidian&logoColor=white)
 
 ### 💾 Базы данных:
@@ -131,10 +123,10 @@
 ![SQLite](https://img.shields.io/badge/SQLite-003B57.svg?style=for-the-badge&logo=SQLite&logoColor=white)
 
 ### 🔧 Языки программирования и инструменты:
-![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?style=for-the-badge&logo=Kotlin&logoColor=white)
-![Android-Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=Android-Studio&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=white)
+
+
+
+
 
 
 ### Codewars:
