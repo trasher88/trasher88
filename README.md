@@ -1,7 +1,6 @@
 <div align="center">
     <h1>Привет, я Иван! 👋 </h1>
-    <h2>Python Developer · AI / LLM Applications · Data Analysis</h2>
-    Разрабатываю прикладные инструменты для работы с данными, автоматизации и интеллектуального поиска
+    <h2>Python · Backend & Automation · Applied AI / LLM · Data Analysis · Android</h2>
     <img src="images/me.gif" width="400px">
 </div>
 
@@ -19,73 +18,13 @@
   <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Ftrasher88&label=Profile%20views&countColor=%23263759" alt="Visitors">
   </div>
 
-### Обо мне:
-У меня **15 лет профессионального опыта в информационной безопасности и разработке защищённых информационных систем**: Linux, программные компоненты на C++, анализ уязвимостей, технические требования и архитектура решений.
-
-Сейчас мой основной фокус - **Python-разработка, AI/LLM-приложения и анализ данных**. Разрабатываю собственные проекты, в которых соединяю работу с API и данными, backend-логику, поиск по документам, тестирование и автоматизацию.
-
-Мне интересен полный цикл разработки: **задача → архитектура → реализация → тестирование → оценка качества → работающий продукт**. Опыт в информационной безопасности помогает учитывать надёжность, ограничения доступа и проверяемость поведения систем.
-
----
-
-### 💻 Чем занимался:
-- Разрабатывал компоненты систем защиты информации на C++
-- Проводил код-ревью с фокусом на поиск уязвимостей и потенциальных рисков
-- Анализировал IT-инфраструктуру и информационные системы на соответствие требованиям безопасности
-- Готовил технические отчёты, заключения и документацию
-- Работал с требованиями, архитектурными решениями и вопросами защиты данных
-
----
-
-### 📈 Куда развиваюсь сейчас
-#### LLM / AI Applications
-Изучаю разработку прикладных LLM-систем и AI-ассистентов:
-- проектирование RAG-пайплайнов;
-- работа с синтетическими базами знаний;
-- router layer и intent classification;
-- mock tools / function calling;
-- structured outputs;
-- safety и privacy restrictions;
-- automated eval pipeline;
-- regression reports для сравнения качества разных конфигураций;
-- FastAPI demo для проверки AI-pipeline через API.
-Мой фокус — не просто использовать LLM как чат, а строить контролируемые AI-приложения, где есть архитектура, тесты, документация, safety-логика и понятные критерии качества.
-
-#### Data Analysis
-Изучаю и применяю инструменты анализа данных:
-- Python: Pandas, NumPy
-- SQL
-- Статистика: A/B-тесты, корреляционный анализ, проверка гипотез
-- Визуализация данных: Tableau, Power BI
-- Подготовка аналитических выводов и интерпретация результатов
-
-#### System Analysis
-Развиваю навыки системного анализа:
-- Сбор и декомпозиция требований
-- Описание бизнес- и системных процессов
-- Подготовка технических заданий
-- Проектирование логики работы систем
-- Взаимодействие между бизнес-требованиями и технической реализацией
-
-### Мой фокус
-Сейчас я развиваюсь на стыке **анализа данных**, **системного анализа**, **backend-автоматизации** и **LLM-приложений**.
-
-Мне интересны задачи, где нужно не просто написать код, а пройти полный путь от постановки задачи до работающего решения:
-
-- понять бизнес-сценарий;
-- описать требования;
-- спроектировать архитектуру;
-- подготовить данные;
-- реализовать backend-логику;
-- добавить тесты и документацию;
-- проверить качество результата.
-
-Отдельно изучаю разработку AI-ассистентов на базе LLM: RAG, tool calling, structured outputs, safety/refusal logic, evaluation pipeline и regression reports. Мне интересен production-oriented подход, где AI-система работает не как случайный чат, а как контролируемый сервис с понятной логикой и проверяемым качеством.
-
-### Telegram-боты
-Отдельное направление, которое мне интересно, — разработка Telegram-ботов на Python.
-Я рассматриваю ботов не только как средство автоматизации, но и как удобный интерфейс для работы с данными: сбора информации, обработки запросов, отображения аналитики и взаимодействия с пользователем.
-В таких проектах я применяю Python, API, базы данных, обработку данных и логику пользовательских сценариев.
+## Профессиональный опыт и направления развития
+**2011–2026 - Информационная Безопасность:**
+- Разработка программных компонентов на C/C++, Kotlin
+- Внедрение программных компонентов  в ОС Linux
+- Анализ защищённости информационных систем и инфраструктуры
+- Работа с требованиями и архитектурой
+- Разработка технической документации
 
 ---
 
@@ -96,37 +35,6 @@
 | **Данные и ML**            | ![MYSQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white), ![SQLite](https://img.shields.io/badge/SQLite-003B57.svg?style=for-the-badge&logo=SQLite&logoColor=white), ![Pandas](https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white), ![NumPy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=NumPy&logoColor=white), ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6.svg?style=for-the-badge&logo=SciPy&logoColor=white), ![scikit-learn](https://img.shields.io/badge/scikitlearn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white), ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white), ![Plotly](https://img.shields.io/badge/Plotly-7A76FF.svg?style=for-the-badge&logo=Plotly&logoColor=white), ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B.svg?style=for-the-badge&logo=Streamlit&logoColor=white)                                                    |
 | **Инженерные инструменты** | ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black), ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white), ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white), ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC.svg?style=for-the-badge&logo=Pytest&logoColor=white), ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)                                                                   |
 | **Дополнительный опыт**    | ![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white), ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?style=for-the-badge&logo=Kotlin&logoColor=white), ![Android-Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=Android-Studio&logoColor=white), ![IntelliJ](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=white)                       |
-
-### 🤖 LLM / AI Applications:
-![LLM](https://img.shields.io/badge/LLM-6E40C9.svg?style=for-the-badge)
-![Structured Output](https://img.shields.io/badge/Structured%20Output-0052CC.svg?style=for-the-badge)
-![AI Evaluation](https://img.shields.io/badge/AI%20Evaluation-2E7D32.svg?style=for-the-badge)
-
-### ⚙️ Backend & API:
-![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=FastAPI&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063.svg?style=for-the-badge&logo=Pydantic&logoColor=white)
-![Uvicorn](https://img.shields.io/badge/Uvicorn-499848.svg?style=for-the-badge&logo=Gunicorn&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-02569B.svg?style=for-the-badge&logo=Swagger&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D.svg?style=for-the-badge&logo=Swagger&logoColor=black)
-![JSON](https://img.shields.io/badge/JSON-000000.svg?style=for-the-badge)
-
-### 🧪 Testing & Documentation:
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC.svg?style=for-the-badge&logo=Pytest&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=Markdown&logoColor=white)
-![JSONL](https://img.shields.io/badge/JSONL-292929.svg?style=for-the-badge)
-
-![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED.svg?style=for-the-badge&logo=Obsidian&logoColor=white)
-
-### 💾 Базы данных:
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57.svg?style=for-the-badge&logo=SQLite&logoColor=white)
-
-### 🔧 Языки программирования и инструменты:
-
-
-
-
 
 
 ### Codewars:
