@@ -42,18 +42,14 @@
 | **Системное программирование**    | ![C](https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black), ![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white), ![GNU BASH](https://img.shields.io/badge/GNU%20Bash-4EAA25.svg?style=for-the-badge&logo=GNU-Bash&logoColor=white)
 | **Android-разработка**    | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?style=for-the-badge&logo=Kotlin&logoColor=white), ![Android-Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=Android-Studio&logoColor=white), ![IntelliJ](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=white)  
 
-
-
-
-
 ## 🚀Программные-проекты
 
 | Проект | Что реализовано | Технологии и компетенции | 
 | ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------ |
-| 🏈 **[NFL AI Assistant](https://github.com/trasher88/NFL-AI-Assistant)**                                    | Desktop-система прогнозирования NFL: расчёт вероятностей, сравнение математической модели с рыночным baseline, фиксация предматчевых прогнозов и оценка результатов без изменения истории. | **Python**, вероятностное моделирование, обработка данных, тестирование, PyInstaller |
-| 🤖 **[FinAssist QA Platform](https://github.com/trasher88/finassist-qa-platform)**                          | Демонстрационная LLM-платформа: маршрутизация запросов, поиск по базе знаний, mock-инструменты для KYC и поддержки, API и регрессионное тестирование качества ответов.                     | **Python**, FastAPI, Pydantic, pytest, OpenAI API                                    |
-| 📊 **[DataViz Detective](https://github.com/trasher88/data-viz-detective)**                                 | Сбор вакансий с hh.ru, очистка и хранение данных, анализ зарплат и востребованных навыков, интерактивный дашборд и автоматизация обновлений.                                               | **Python**, SQL, SQLite, Pandas, Streamlit, Plotly, GitHub Actions                   |
-| 🛡️ **[CVE Threat Intelligence Dashboard](https://github.com/trasher88/CVE-Threat-Intelligence-Dashboard)** | Получение и обработка CVE из NVD API, аналитика критичности и динамики уязвимостей, визуализация и Telegram-уведомления.                                                                   | **Python**, NVD API, Pandas, SQLite, Streamlit, Plotly                               |
+| 🏈 **[NFL AI Assistant](https://github.com/trasher88/NFL-AI-Assistant)** | Прогнозирование NFL: вероятностная модель, сравнение с рынком, фиксация прогнозов и анализ точности. | Python, статистическое моделирование, PyInstaller|
+| 🤖 **[FinAssist QA Platform](https://github.com/trasher88/finassist-qa-platform)** | LLM-платформа: маршрутизация запросов, поиск по базе знаний, mock-KYC и тестирование качества ответов | Python, FastAPI, Pydantic, pytest, OpenAI AP |
+| 📊 **[DataViz Detective](https://github.com/trasher88/data-viz-detective)** | Аналитика вакансий hh.ru: сбор данных, анализ зарплат и навыков, интерактивный дашборд и автообновление | Python, SQLite, Pandas, Streamlit, Plotly, GitHub Actions|
+| 🛡️ **[CVE Threat Intelligence Dashboard](https://github.com/trasher88/CVE-Threat-Intelligence-Dashboard)** | Мониторинг CVE: данные NVD, анализ критичности и динамики уязвимостей, дашборд и Telegram-оповещения  | Python, NVD API, Pandas, SQLite, Streamlit, Plotly |
 
 ---
 ## 📱Опубликованные Android-приложения в RuStore
