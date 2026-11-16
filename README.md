@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>Привет, я Иван! 👋 </h1>
+    <h1>Привет, я Иван! </h1>
     <h2>Python · Backend & Automation · Applied AI / LLM · Data Analysis · Android</h2>
     <img src="images/me.gif" width="400px">
 </div>
@@ -18,7 +18,7 @@
   <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Ftrasher88&label=Profile%20views&countColor=%23263759" alt="Visitors">
   </div>
 
-## 👨‍💻Профессиональный опыт и направления развития
+## Профессиональный опыт и направления развития
 **2011–2026 - Инженер Информационной Безопасности:**
 - Разработка программных компонентов на C/C++, Kotlin
 - Внедрение программных компонентов  в ОС Linux
@@ -32,7 +32,7 @@
 - Системы обработки и поиска данных
 - Аналитические приложения
 
-## 💻 Технические компетенции
+##  Технические компетенции
 | Область компетенций        | Технологии и навыки                                                                                                           |
 | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
 | **Python / Backend**       | ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white), ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=PyCharm&logoColor=white), ![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=FastAPI&logoColor=white), ![Pydantic](https://img.shields.io/badge/Pydantic-E92063.svg?style=for-the-badge&logo=Pydantic&logoColor=white)                                                            |
@@ -42,17 +42,17 @@
 | **Системное программирование**    | ![C](https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black), ![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white), ![GNU BASH](https://img.shields.io/badge/GNU%20Bash-4EAA25.svg?style=for-the-badge&logo=GNU-Bash&logoColor=white)
 | **Android-разработка**    | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?style=for-the-badge&logo=Kotlin&logoColor=white), ![Android-Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=Android-Studio&logoColor=white), ![IntelliJ](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=white)  
 
-## 🚀Программные-проекты
+## Программные-проекты
 
 | Проект | Что реализовано | Технологии и компетенции | 
 | ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------ |
-| 🏈 **[NFL AI Assistant](https://github.com/trasher88/NFL-AI-Assistant)** | Прогнозирование NFL: вероятностная модель, сравнение с рынком, фиксация прогнозов и анализ точности. | Python, статистическое моделирование, PyInstaller|
-| 🤖 **[FinAssist QA Platform](https://github.com/trasher88/finassist-qa-platform)** | LLM-платформа: маршрутизация запросов, поиск по базе знаний, mock-KYC и тестирование качества ответов | Python, FastAPI, Pydantic, pytest, OpenAI AP |
-| 📊 **[DataViz Detective](https://github.com/trasher88/data-viz-detective)** | Аналитика вакансий hh.ru: сбор данных, анализ зарплат и навыков, интерактивный дашборд и автообновление | Python, SQLite, Pandas, Streamlit, Plotly, GitHub Actions|
-| 🛡️ **[CVE Threat Intelligence Dashboard](https://github.com/trasher88/CVE-Threat-Intelligence-Dashboard)** | Мониторинг CVE: данные NVD, анализ критичности и динамики уязвимостей, дашборд и Telegram-оповещения  | Python, NVD API, Pandas, SQLite, Streamlit, Plotly |
+|  **[NFL AI Assistant](https://github.com/trasher88/NFL-AI-Assistant)** | Прогнозирование NFL: вероятностная модель, сравнение с рынком, фиксация прогнозов и анализ точности. | Python, статистическое моделирование, PyInstaller|
+|  **[FinAssist QA Platform](https://github.com/trasher88/finassist-qa-platform)** | LLM-платформа: маршрутизация запросов, поиск по базе знаний, mock-KYC и тестирование качества ответов | Python, FastAPI, Pydantic, pytest, OpenAI AP |
+|  **[DataViz Detective](https://github.com/trasher88/data-viz-detective)** | Аналитика вакансий hh.ru: сбор данных, анализ зарплат и навыков, интерактивный дашборд и автообновление | Python, SQLite, Pandas, Streamlit, Plotly, GitHub Actions|
+|  **[CVE Threat Intelligence Dashboard](https://github.com/trasher88/CVE-Threat-Intelligence-Dashboard)** | Мониторинг CVE: данные NVD, анализ критичности и динамики уязвимостей, дашборд и Telegram-оповещения  | Python, NVD API, Pandas, SQLite, Streamlit, Plotly |
 
 ---
-## 📱Опубликованные Android-приложения в RuStore
+## Опубликованные Android-приложения в RuStore
 **Разрабатываю самостоятельные пользовательские продукты, доступные в магазине приложений.** Работы включают развитие функциональности, UX, тестирование, подготовку релизов и интеграцию с экосистемой RuStore.
 
 ### [Субъекты РФ](https://www.rustore.ru/catalog/app/ru.trasher.regions)
@@ -70,11 +70,11 @@
 
 **Инженерный фокус:** локальное хранение данных, работа с вложениями, защита пользовательской информации, жизненный цикл данных, монетизация.
 
-### ⚙️Production-интеграция RuStore
+### Production-интеграция RuStore
 Для данных приложений развёрнут **единый backend обработки событий магазина**: callback-endpoints, проверка и расшифровка сообщений, дедупликация, журнал событий в SQLite, HTTPS и Telegram-уведомления о покупках и возвратах.
 **Стек:** Python, FastAPI, SQLite, Linux, systemd, Caddy, HTTPS, Cloudflare Worker, RuStore API / callbacks.
 
-## 🔒Закрытые инженерные разработки
+## Закрытые инженерные разработки
 Часть проектов не представлена публичными репозиториями. Ниже - только функциональное назначение и общие инженерные подходы; **исходный код, внутренние компоненты и данные не публикуются**.
 
 ### Offline Document Search Engine - локальный поисковый движок
@@ -90,7 +90,7 @@
 ---
 
 
-## 📊Аналитика данных:
+## Аналитика данных:
 В учебных и самостоятельных проектах выполняю предобработку данных, EDA, проверку статистических гипотез, сегментацию и подготовку аналитических выводов.
 - [Анализ данных e-commerce маркетплейса Olist](https://github.com/trasher88/olist-ecommerce-analysis/tree/main)
 - [Проект анализа надежности заемщиков банка](https://github.com/trasher88/Borrower_reliability)
