@@ -46,10 +46,12 @@
 
 | Проект | Что реализовано | Технологии и компетенции | 
 | ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------ |
-|  **[NFL AI Assistant](https://github.com/trasher88/NFL-AI-Assistant)** | Прогнозирование NFL: вероятностная модель, сравнение с рынком, фиксация прогнозов и анализ точности. | Python, статистическое моделирование, PyInstaller|
-|  **[FinAssist QA Platform](https://github.com/trasher88/finassist-qa-platform)** | LLM-платформа: маршрутизация запросов, поиск по базе знаний, mock-KYC и тестирование качества ответов | Python, FastAPI, Pydantic, pytest, OpenAI AP |
-|  **[DataViz Detective](https://github.com/trasher88/data-viz-detective)** | Аналитика вакансий hh.ru: сбор данных, анализ зарплат и навыков, интерактивный дашборд и автообновление | Python, SQLite, Pandas, Streamlit, Plotly, GitHub Actions|
-|  **[CVE Threat Intelligence Dashboard](https://github.com/trasher88/CVE-Threat-Intelligence-Dashboard)** | Мониторинг CVE: данные NVD, анализ критичности и динамики уязвимостей, дашборд и Telegram-оповещения  | Python, NVD API, Pandas, SQLite, Streamlit, Plotly |
+|  **[FinAssist QA Platform](https://github.com/trasher88/finassist-qa-platform)** | **LLM / RAG.** Платформа AI-ассистента: маршрутизация запросов, поиск по базе знаний, интеграция с mock-инструментами, структурированная генерация ответов и автоматизированная оценка качества. | Python · FastAPI · Pydantic · OpenAI API · pytest |
+|  **[DataViz Detective](https://github.com/trasher88/data-viz-detective)** | **Data Engineering / Automation.** Система аналитики рынка вакансий: сбор и нормализация данных через API, хранение в БД, интерактивная визуализация, Telegram-бот и автоматическое обновление. | Python · REST API · SQLite · SQLAlchemy · Streamlit · Plotly |
+|  **[NFL AI Assistant](https://github.com/trasher88/NFL-AI-Assistant)** | **Predictive Analytics / Decision Systems.** Приложение для вероятностного прогнозирования: обработка спортивной статистики, расчёт прогнозов, фиксация предматчевых результатов и контроль воспроизводимости. | Python · Pandas · scikit-learn · SQLite · PySide6|
+|  **[CVE Threat Intelligence Dashboard](https://github.com/trasher88/CVE-Threat-Intelligence-Dashboard)** | **ETL / Monitoring.** Платформа мониторинга уязвимостей: сбор данных NVD, ETL-обработка, анализ критичности и динамики, аналитический дашборд и автоматизированные оповещения.  | Python · NVD API · Pandas · SQLite · Streamlit · Telegram Bot API |
+
+
 
 ---
 ## Опубликованные Android-приложения в RuStore
